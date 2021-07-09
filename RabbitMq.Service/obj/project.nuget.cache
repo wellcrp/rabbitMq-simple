@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xmz4PBPMy6HvLMdEtj5kqbKbOW08ZjmnmzryTUFbuLjYrs+sj6FqzZrfaWit8a714H6DEoAUOtbbHpV5ku4MNg==",
+  "success": true,
+  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\C#\\A10-RabbitMQ\\RabbitMQ-Simple\\RabbitMq.Service\\RabbitMq.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\well_\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\well_\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\well_\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\well_\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\well_\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\well_\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\well_\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

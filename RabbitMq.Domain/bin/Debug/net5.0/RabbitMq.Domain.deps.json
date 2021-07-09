@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RabbitMq.Domain/1.0.0": {
+        "dependencies": {
+          "RabbitMq.CrossCutting": "1.0.0"
+        },
+        "runtime": {
+          "RabbitMq.Domain.dll": {}
+        }
+      },
+      "RabbitMq.CrossCutting/1.0.0": {
+        "runtime": {
+          "RabbitMq.CrossCutting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RabbitMq.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RabbitMq.CrossCutting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

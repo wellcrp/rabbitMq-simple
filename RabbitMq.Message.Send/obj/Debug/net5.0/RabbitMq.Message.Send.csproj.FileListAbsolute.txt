@@ -1,0 +1,15 @@
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Message.Send\obj\Debug\net5.0\RabbitMq.Message.Send.csproj.AssemblyReference.cache
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Message.Send\obj\Debug\net5.0\RabbitMq.Message.Send.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Message.Send\obj\Debug\net5.0\RabbitMq.Message.Send.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Message.Send\obj\Debug\net5.0\RabbitMq.Message.Send.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Message.Send\obj\Debug\net5.0\RabbitMq.Message.Send.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Message.Send\bin\Debug\net5.0\RabbitMq.Message.Send.deps.json
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Message.Send\bin\Debug\net5.0\RabbitMq.Message.Send.dll
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Message.Send\bin\Debug\net5.0\ref\RabbitMq.Message.Send.dll
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Message.Send\bin\Debug\net5.0\RabbitMq.Message.Send.pdb
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Message.Send\bin\Debug\net5.0\RabbitMq.CrossCutting.dll
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Message.Send\bin\Debug\net5.0\RabbitMq.CrossCutting.pdb
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Message.Send\obj\Debug\net5.0\RabbitMq.Message.Send.csproj.CopyComplete
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Message.Send\obj\Debug\net5.0\RabbitMq.Message.Send.dll
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Message.Send\obj\Debug\net5.0\ref\RabbitMq.Message.Send.dll
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Message.Send\obj\Debug\net5.0\RabbitMq.Message.Send.pdb

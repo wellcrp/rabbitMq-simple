@@ -1,0 +1,15 @@
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Domain\bin\Debug\net5.0\RabbitMq.Domain.deps.json
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Domain\bin\Debug\net5.0\RabbitMq.Domain.dll
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Domain\bin\Debug\net5.0\ref\RabbitMq.Domain.dll
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Domain\bin\Debug\net5.0\RabbitMq.Domain.pdb
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Domain\obj\Debug\net5.0\RabbitMq.Domain.csproj.AssemblyReference.cache
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Domain\obj\Debug\net5.0\RabbitMq.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Domain\obj\Debug\net5.0\RabbitMq.Domain.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Domain\obj\Debug\net5.0\RabbitMq.Domain.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Domain\obj\Debug\net5.0\RabbitMq.Domain.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Domain\obj\Debug\net5.0\RabbitMq.Domain.dll
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Domain\obj\Debug\net5.0\ref\RabbitMq.Domain.dll
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Domain\obj\Debug\net5.0\RabbitMq.Domain.pdb
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Domain\bin\Debug\net5.0\RabbitMq.CrossCutting.dll
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Domain\bin\Debug\net5.0\RabbitMq.CrossCutting.pdb
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.Domain\obj\Debug\net5.0\RabbitMq.Domain.csproj.CopyComplete

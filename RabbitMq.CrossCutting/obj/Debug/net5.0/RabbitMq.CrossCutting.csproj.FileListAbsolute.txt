@@ -1,0 +1,11 @@
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.CrossCutting\bin\Debug\net5.0\RabbitMq.CrossCutting.deps.json
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.CrossCutting\bin\Debug\net5.0\RabbitMq.CrossCutting.dll
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.CrossCutting\bin\Debug\net5.0\ref\RabbitMq.CrossCutting.dll
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.CrossCutting\bin\Debug\net5.0\RabbitMq.CrossCutting.pdb
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.CrossCutting\obj\Debug\net5.0\RabbitMq.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.CrossCutting\obj\Debug\net5.0\RabbitMq.CrossCutting.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.CrossCutting\obj\Debug\net5.0\RabbitMq.CrossCutting.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.CrossCutting\obj\Debug\net5.0\RabbitMq.CrossCutting.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.CrossCutting\obj\Debug\net5.0\RabbitMq.CrossCutting.dll
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.CrossCutting\obj\Debug\net5.0\ref\RabbitMq.CrossCutting.dll
+E:\CodeBox\Project-Estudos\C#\A10-RabbitMQ\RabbitMQ-Simple\RabbitMq.CrossCutting\obj\Debug\net5.0\RabbitMq.CrossCutting.pdb
